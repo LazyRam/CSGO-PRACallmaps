@@ -4,7 +4,6 @@ The 34 <b> binds are on line 2086</b> if you want to check or change any of them
 	
 ## HOW TO USE: Nade Position/Lineup binds
 Rshift     - Choose Map
-
 uparrow    - T nades: Smoke, Molotov, Flash
 
 downarrow  - CT nades: Smoke, Molotov, Flash
@@ -14,15 +13,6 @@ leftarrow  - Next Nade Lineups
 rightarrow - Previous Nade Lineups
 
 NUM insert - Secondary Position for Current Lineup
-
--
--
--
--
--
--
--
--
 
 	## <b>HOW TO USE: Crosshair Color Changer<b>
 7		  - Cycle Through Customizable Presets -
