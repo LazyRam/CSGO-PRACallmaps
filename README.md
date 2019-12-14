@@ -18,9 +18,8 @@ The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them
 - HOLD 0	  - select Green tent with -  = |Release to save to Selected Preset -
 
 ##
-<p align="center">
 ### Patch Notes
-</p>
+
 ### 7.22.19
 - added patch notes
 - added 1 more dust2 flash for t and ct fctmbw -flash ct mid from B window
