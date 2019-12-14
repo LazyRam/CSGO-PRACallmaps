@@ -37,12 +37,11 @@ The 34 binds are on line 2086 if you want to check or change any of them -near t
 //______________________________________________________________________________
 
 	//LIST OF MAYBES
-• bind backspace to clear crosshair preset .log file? even possible with console only? or maybe just clear console #
-• Smoke Z FROm big truck old cache #
-• extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial? #
-• rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes? #
-• bot that jump, walk, run crouch past/peak set locations on each map? #
-
+<b>bind backspace to clear crosshair preset .log file? even possible with console only? or maybe just clear console<b>
+<b>Smoke Z FROm big truck old cache<b>
+<b>extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?<b>
+<b>rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?<b>
+<b>bot that jump, walk, run crouch past/peak set locations on each map?<b>
 	//LIST OF TODO'S
 Overpass, nuke, Vertigo, new cache, cobblestone. -in that order-
 optimize, to much code could break cfg when new map linups added.
