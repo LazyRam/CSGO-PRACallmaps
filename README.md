@@ -3,12 +3,12 @@ my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
 The 34 <b> binds are on line 2086</b> if you want to check or change any of them -near the bottom
 	
 ## HOW TO USE: Nade Position/Lineup binds
-Rshift     - Choose Map
-uparrow    - T nades: Smoke, Molotov, Flash
-downarrow  - CT nades: Smoke, Molotov, Flash
-leftarrow  - Next Nade Lineups
-rightarrow - Previous Nade Lineups
-NUM insert - Secondary Position for Current Lineup
+######Rshift     - Choose Map
+######uparrow    - T nades: Smoke, Molotov, Flash
+######downarrow  - CT nades: Smoke, Molotov, Flash
+######leftarrow  - Next Nade Lineups
+######rightarrow - Previous Nade Lineups
+#####NUM insert - Secondary Position for Current Lineup
 
 
 ## HOW TO USE: Crosshair Color Changer
