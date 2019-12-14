@@ -12,7 +12,7 @@ The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them
 
 
 ## HOW TO USE: Crosshair Color Changer
-- 7		  - Cycle Through Customizable Presets -
+- 7		  - Cycle Through Customizable Presets
 - HOLD 8	  - then select Red tent with -  = | Release 8 to save to Selected Preset
 - HOLD 9	  - then select Blue tent with -  = | Release 9 to save to Selected Preset
 - HOLD 0	  - then select Green tent with -  = | Release 0 to save to Selected Preset
