@@ -19,12 +19,12 @@ The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them
 - HOLD 0	  - then select Green tent with -  = | Release 0 to save to Selected Preset
 
 ##
-## HOW TO SETUP:Fast
+## HOW TO SETUP: Fast
 1. Put PRACallmaps.cfg into C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 2. Play CSGO, PRACTICE WITH BOTS, Choose Prefered Map
 3. Open Console "~" Enter "exec PRACallmaps"
 
-## HOW TO SETUP:
+## HOW TO SETUP: Detailed
 1. Download or past text indo PRACallmaps.cfg
 2. Locate your C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 3. Past PRACallmaps.cfg
