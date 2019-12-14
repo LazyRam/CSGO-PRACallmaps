@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
 
-The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them -near the bottom
+The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them -near the bottom
 	
 ## HOW TO USE: Nade Position/Lineup binds
 - Rshift     - Choose Map
