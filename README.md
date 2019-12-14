@@ -20,10 +20,10 @@ The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them
 ##
 ### Patch Notes
 
-### 7.22.19
-- added patch notes
-- added 1 more dust2 flash for t and ct fctmbw -flash ct mid from B window
-- fixed up dust2 smoke and flash code for easier understanding -no more starting at 0
+### 11.10.19
+- added Crosshair Color Changer on 7,8,9,0 with supporting -,= keys
+- added  HOW TO USE: Crosshair Color Changer
+- cleaned up some code
 
 ### 11.4.19
 - added HOW TO USE: Nade Positions/Linup
@@ -31,10 +31,11 @@ The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them
 - changed keybinds to fix conflicting binds and put them in similar sections i.e. god mode next to bottomless clip
 - put more frequently used binds to more easily reached keys
 
-### 11.10.19
-- added Crosshair Color Changer on 7,8,9,0 with supporting -,= keys
-- added  HOW TO USE: Crosshair Color Changer
-- cleaned up some code
+### 7.22.19
+- added patch notes
+- added 1 more dust2 flash for t and ct fctmbw -flash ct mid from B window
+- fixed up dust2 smoke and flash code for easier understanding -no more starting at 0
+
 ## 
 ### LIST OF MAYBES
 - bind backspace to clear crosshair preset .log file? even possible with console only? or maybe just clear console
