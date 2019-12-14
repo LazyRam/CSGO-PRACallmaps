@@ -25,12 +25,14 @@ The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them
 3. Open Console "~" Enter "exec PRACallmaps"
 
 ## HOW TO SETUP: Detailed
-1. Download or past text indo PRACallmaps.cfg
+1. Download PRACallmaps.cfg
+	OR
+ 1. Past PRACallmaps.cfg text into File named PRACallmaps.cfg
 2. Locate your C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 3. Past PRACallmaps.cfg
-4. Enable console in CSGO, "Settings Menu" Gear, "Game" tab, Fith from the top "Enable Developer Console"
+4. Enable console in CSGO, "Settings Menu" -Gear, "Game" -tab, Fith from the top "Enable Developer Console"
 5. Play CSGO, PRACTICE WITH BOTS, Choose Prefered Map
-6. Once Fully Loaded map Press Colsole Key "~"
+6. Once Map Fully Loades Press Colsole Key "~"
 7. Type "exec PRACallmaps" Press ENTER
 
 ##
