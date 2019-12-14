@@ -1,23 +1,6 @@
-# CSGO-PRACallmaps
 
-my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
-The 34 binds are on line 2086 if you want to check or change any of them -near the bottom
 
-	//HOW TO USE: Nade Position/Lineup binds
-//Rshift     - Choose Map
-//uparrow    - T nades: Smoke, Molotov, Flash
-//downarrow  - CT nades: Smoke, Molotov, Flash
-//leftarrow  - Next Nade Lineups
-//rightarrow - Previous Nade Lineups
-//NUM insert - Secondary Position for Current Lineup
 
-	//HOW TO USE: Crosshair Color Changer
-//7		  - Cycle Through Customizable Presets
-//HOLD 8	  - select Red tent with -  = |Release to save to Selected Preset
-//HOLD 9	  - select Blue tent with -  = |Release to save to Selected Preset
-//HOLD 0	  - select Green tent with -  = |Release to save to Selected Preset
-
-# patch notes
 	### 7.22.19
 - added patch notes
 - added 1 more dust2 flash for t and ct fctmbw -flash ct mid from B window
@@ -29,7 +12,7 @@ The 34 binds are on line 2086 if you want to check or change any of them -near t
 - changed keybinds to fix conflicting binds and put them in similar sections i.e. god mode next to bottomless clip
 - put more frequently used binds to more easily reached keys
 
-	### <b>11.10.19<b>
+	### 11.10.19
 - added Crosshair Color Changer on 7,8,9,0 with supporting -,= keys
 - added  HOW TO USE: Crosshair Color Changer
 - cleaned up some code
