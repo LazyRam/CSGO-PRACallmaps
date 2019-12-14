@@ -39,7 +39,7 @@ The 34 <b> BINDS ARE ON LINE 2086</b> if you want to check or change any of them
 	### LIST OF MAYBES
 - bind backspace to clear crosshair preset .log file? even possible with console only? or maybe just clear console
 - set bind to start and save nade presets
-- Smoke Z FROm big truck old cache
+- Smoke Z from big truck old cache
 - extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
 - bot that jump, walk, run crouch past/peak set locations on each map?
