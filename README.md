@@ -5,22 +5,20 @@ The 34 <b> binds are on line 2086</b> if you want to check or change any of them
 ## HOW TO USE: Nade Position/Lineup binds
 Rshift     - Choose Map
 uparrow    - T nades: Smoke, Molotov, Flash
-
 downarrow  - CT nades: Smoke, Molotov, Flash
-
 leftarrow  - Next Nade Lineups
-
 rightarrow - Previous Nade Lineups
-
 NUM insert - Secondary Position for Current Lineup
 
-	## <b>HOW TO USE: Crosshair Color Changer<b>
+
+## HOW TO USE: Crosshair Color Changer
 7		  - Cycle Through Customizable Presets -
 HOLD 8	  - select Red tent with -  = |Release to save to Selected Preset -
 HOLD 9	  - select Blue tent with -  = |Release to save to Selected Preset -
 HOLD 0	  - select Green tent with -  = |Release to save to Selected Preset -
 
-	## <b>Patch Notes<b>
+## Patch Notes
+- 
 	### 7.22.19
 - added patch notes
 - added 1 more dust2 flash for t and ct fctmbw -flash ct mid from B window
