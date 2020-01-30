@@ -11,7 +11,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 
 ### Nade Position/Lineup binds
 - Rshift     - Choose Map
-- Rctrl      - Chosen Map optionals
+- Rctrl      - Choose Current Map optionals
 - uparrow    - T nades: Smoke, Molotov, Flash
 - downarrow  - CT nades: Smoke, Molotov, Flash
 - leftarrow  - Next Nade Lineups
