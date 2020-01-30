@@ -4,10 +4,11 @@ my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
 The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them -near the bottom
 
 # Binds
+### Keybindings and Commands list
 - kp_enter	- shows keybindings and clears console
 - kp_plus	- shows all give commands/arguments
 - kp_minus	- shows map selection console commands
-	
+
 ### HOW TO USE: Nade Position/Lineup binds
 - Rshift     - Choose Map
 - Rctrl      - Chosen Map optionals
@@ -17,7 +18,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - rightarrow - Previous Nade Lineups
 - NUM insert - Secondary Position for Current Lineup
 
-##
+### Bot
 - Insert     - places bot at crosshair
 - Delete     - kicks all bots
 - Home	     - makes bot crouch
@@ -30,6 +31,43 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - HOLD 8	  - then select Red tent with -  = | Release 8 to save to Selected Preset
 - HOLD 9	  - then select Blue tent with -  = | Release 9 to save to Selected Preset
 - HOLD 0	  - then select Green tent with -  = | Release 0 to save to Selected Preset
+- "-"		  - darken curret color/tent
+- "="		  - lighen current color/tent
+- Backspace	  - clears console
+
+### limiter
+- Y	     - grenade trajectory timers
+- U	     - the player become invulnerable
+- I 	     - infinite ammo
+- O	     - see players through walls
+- P	     - auto bunny hopping
+- "["	     - shows bullet hits
+- "]"	     - shows impacts
+- \ 	     - draws player/nade, wall clippings
+
+### nade
+- H	     - removes airborn grenades
+- J	     - throws recorded nade path, need vscript
+- K	     - gives all grenades
+- L	     - outlines where bomb can be planted
+- ;	     - draw line/ray
+- ' 	     - stops developer text in upper left corner
+
+### log
+- N	     - disable particles i.e. smoke
+- M	     - teleport to logged positions/hold for second position
+- ,	     - log position 1
+- . 	     - log position 2
+- /	     - nothing yet
+
+### extra
+- Tab	     - toggles Buy anywhere
+- F	     - inspects weapon and clears blood/bullet holes
+- Capslock   - Jump Throw Nade
+
+### speed
+- alt	     - fly/noclip
+- Ralt	     - increase game speed 10x
 
 ##
 ## HOW TO SETUP: Fast
@@ -85,5 +123,6 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 ### LIST OF TODO'S
 - Overpass, nuke, Vertigo, new cache, cobblestone
 - optimize, to much code could break cfg when new map linups added
+- set O bind to cycle diffrent types of wall hack commands 
 - add map name commands NUM MINUS
-- fix and addon to echo bind num_ enter j,num_plus,num_minus
+- fix and addon to echo bind num_ enter j,num_plus,num_minus, \
