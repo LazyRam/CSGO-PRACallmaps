@@ -2,17 +2,29 @@
 my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
 
 The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them -near the bottom
+
+# Binds
+- kp_enter	- shows keybindings and clears console
+- kp_plus	- shows all give commands/arguments
+- kp_minus	- shows map selection console commands
 	
-## HOW TO USE: Nade Position/Lineup binds
+### HOW TO USE: Nade Position/Lineup binds
 - Rshift     - Choose Map
+- Rctrl      - Chosen Map optionals
 - uparrow    - T nades: Smoke, Molotov, Flash
 - downarrow  - CT nades: Smoke, Molotov, Flash
 - leftarrow  - Next Nade Lineups
 - rightarrow - Previous Nade Lineups
 - NUM insert - Secondary Position for Current Lineup
 
+- Insert     - places bot at crosshair
+- Delete     - kicks all bots
+- Home	     - makes bot crouch
+- End	     - bot mimics you
+- PGUP	     - adds t bot
+- PGDOWN     - adds ct bot
 
-## HOW TO USE: Crosshair Color Changer
+### HOW TO USE: Crosshair Color Changer
 - 7		  - Cycle Through Customizable Presets
 - HOLD 8	  - then select Red tent with -  = | Release 8 to save to Selected Preset
 - HOLD 9	  - then select Blue tent with -  = | Release 9 to save to Selected Preset
