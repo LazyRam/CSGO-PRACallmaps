@@ -69,7 +69,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - alt	     - fly/noclip
 - Ralt	     - increase game speed 10x
 
-##
+
 ## HOW TO SETUP: Fast
 1. Put PRACallmaps.cfg into C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 2. Play CSGO, PRACTICE WITH BOTS, Choose Prefered Map
@@ -86,7 +86,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 6. Once Map Fully Loades Press Colsole Key "~"
 7. Type "exec PRACallmaps" Press ENTER
 
-##
+
 ## Patch Notes
 
 ### 1.30.20
