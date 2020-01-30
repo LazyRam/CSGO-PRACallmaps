@@ -26,7 +26,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - PGUP	     - adds t bot
 - PGDOWN     - adds ct bot
 
-### HOW TO USE: Crosshair Color Changer
+### Crosshair Color Changer
 - 7		  - Cycle Through Customizable Presets
 - HOLD 8	  - then select Red tent with -  = | Release 8 to save to Selected Preset
 - HOLD 9	  - then select Blue tent with -  = | Release 9 to save to Selected Preset
