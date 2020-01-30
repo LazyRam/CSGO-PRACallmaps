@@ -17,6 +17,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - rightarrow - Previous Nade Lineups
 - NUM insert - Secondary Position for Current Lineup
 
+##
 - Insert     - places bot at crosshair
 - Delete     - kicks all bots
 - Home	     - makes bot crouch
