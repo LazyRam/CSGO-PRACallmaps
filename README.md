@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ if you care to say hi
 
-The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them -near the bottom
+The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them -near the bottom
 	
 ## HOW TO USE: Nade Position/Lineup binds
 - Rshift     - Choose Map
@@ -38,6 +38,11 @@ The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them
 ##
 ### Patch Notes
 
+### 1.30.20
+- added ability to drop knife
+- added new bind NUM PLUS -shows all give commands in neat categories
+- made it easier to copy give commands
+
 ### 11.10.19
 - added Crosshair Color Changer on 7,8,9,0 with supporting -,= keys
 - added  HOW TO USE: Crosshair Color Changer
@@ -62,7 +67,10 @@ The 34 <b> BINDS ARE ON LINE 2053</b> if you want to check or change any of them
 - extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
 - bot that jump, walk, run crouch past/peak set locations on each map?
+- list of pro settings?
 ##
 ### LIST OF TODO'S
 - Overpass, nuke, Vertigo, new cache, cobblestone
 - optimize, to much code could break cfg when new map linups added
+- add map name commands NUM MINUS
+- fix and addon to echo bind num_ enter j,num_plus,num_minus
