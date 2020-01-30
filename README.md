@@ -125,4 +125,4 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - optimize, to much code could break cfg when new map linups added
 - set O bind to cycle diffrent types of wall hack commands 
 - add map name commands NUM MINUS
-- fix and addon to echo bind num_ enter j,num_plus,num_minus, \
+- fix and addon to echo bind num_ enter j,num_plus,num_minus, \, rctrl
