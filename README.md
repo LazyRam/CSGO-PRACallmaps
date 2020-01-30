@@ -41,8 +41,8 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - I 	     - infinite ammo
 - O	     - see players through walls
 - P	     - auto bunny hopping
-- "["	     - shows bullet hits
-- "]"	     - shows impacts
+- [	     - shows bullet hits
+- ]	     - shows impacts
 - \ 	     - draws player/nade, wall clippings
 
 ### nade
