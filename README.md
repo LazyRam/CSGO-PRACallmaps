@@ -87,7 +87,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 7. Type "exec PRACallmaps" Press ENTER
 
 ##
-### Patch Notes
+## Patch Notes
 
 ### 1.30.20
 - added ability to drop knife
