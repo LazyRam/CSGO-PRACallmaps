@@ -9,7 +9,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - kp_plus	- shows all give commands/arguments
 - kp_minus	- shows map selection console commands
 
-### HOW TO USE: Nade Position/Lineup binds
+### Nade Position/Lineup binds
 - Rshift     - Choose Map
 - Rctrl      - Chosen Map optionals
 - uparrow    - T nades: Smoke, Molotov, Flash
