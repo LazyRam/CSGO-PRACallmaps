@@ -27,10 +27,10 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - PGDOWN     - adds ct bot
 
 ### Crosshair Color Changer
-- 7		  - Cycle Through Customizable Presets
-- HOLD 8	  - then select Red tent with -  = | Release 8 to save to Selected Preset
-- HOLD 9	  - then select Blue tent with -  = | Release 9 to save to Selected Preset
-- HOLD 0	  - then select Green tent with -  = | Release 0 to save to Selected Preset
+- 7		  - Choose Crosshair Color Preset 1-5
+- HOLD 8	  - hold to select/change red,   release to save tent to Chosen Preset
+- HOLD 9	  - hold to select/change blue,  release to save tent to Chosen Preset
+- HOLD 0	  - hold to select/change green, release to save tent to Chosen Preset
 - "-"		  - darken curret color/tent
 - "="		  - lighen current color/tent
 - Backspace	  - clears console
