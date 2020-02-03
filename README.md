@@ -73,7 +73,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 
 ## HOW TO SETUP: Fast
 1. Put PRACallmaps.cfg into C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-2. Play CSGO, PRACTICE WITH BOTS, Choose Prefered Map
+2. Play CSGO, Choose Prefered Map, PRACTICE WITH BOTS
 3. Open Console "~" Enter "exec PRACallmaps"
 
 ## HOW TO SETUP: Detailed
