@@ -3,6 +3,7 @@ my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or ju
 
 The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them -near the bottom
 
+
 # Binds
 ### Keybindings and Commands list
 - kp_enter	- shows keybindings and clears console
@@ -78,15 +79,29 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 ## HOW TO SETUP: Detailed
 1. Download PRACallmaps.cfg
 	OR
- 1. Past PRACallmaps.cfg text into File named PRACallmaps.cfg
-2. Locate your C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-3. Past PRACallmaps.cfg
-4. Enable console in CSGO, "Settings Menu" -Gear, "Game" -tab, Fith from the top "Enable Developer Console"
-5. Play CSGO, PRACTICE WITH BOTS, Choose Prefered Map
-6. Once Map Fully Loades Press Colsole Key "~"
-7. Type "exec PRACallmaps" Press ENTER
+1. Past PRACallmaps.cfg text into File and Name it PRACallmaps.cfg
+2. Past PRACallmaps.cfg file into CSGO's config folder located @
+	---> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+3. Open CSGO and Enable Developer Console in Settings Located @
+ 	---> "Settings menu" -Gear, "Game" -Section 5 from the top, "Enable Developer Console (~)" YES
+4. Choose Prefered Map  Press your Developer Console Key (~) tilda, Type "map de_dust2" Enter -list of maps are below
+-		-FIX: if Developer Console (~) does not open "alt+tab" out then "alt+tab" back in, try (~)tilda again
+-	OR
+-	click "Play CSGO" -top left play icon, click on Prefered map "Dust II" Once it is Highlighted
+-	click on "OFFICAL MATCHMAKING" -rectangle, Then "PRACTICE WITH BOTS", Hit "GO" -bottom right
+5. Load/Exec the PRACallmaps.cfg Config file
+-	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
+-		-can choose team then "exec PRACallmaps" if you want
+6. Choose a Team "Counter Terrorist"
 
-
+-  NOW YOUR READY TO PRACTICE THOSE NADES.
+-	_______HOW TO USE: Nade Position/Lineup binds_______------------| all these keys are Multiple Presses to Rotate
+-	Rshift		 - Choose your Loaded Map ----------------------| Multiple Press to Rotate Through Maps
+-	Uparrow		 - T nades:  Smoke, Molotov, Flash -------------| Multiple Press's to Rotate |T|  Side Nades
+-	Downarrow	 - CT nades: Smoke, Molotov, Flash --------| Multiple Press's to Rotate |CT| Side Nades
+-	Leftarrow	 - Next Nade Lineups -------------------------| Next in Rotaion of Nade of nade |Side| and |Type|
+-	Rightarrow	 - Previous Nade Lineups -------------------| Rotate Back Through Previously Seen Nades
+-	NUM insert	 - Secondary Position for Current Lineup --| Secondary Angle for Currently Selected Nade
 ## Patch Notes
 
 ### 1.30.20
