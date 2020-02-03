@@ -91,7 +91,7 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 -	click on "OFFICAL MATCHMAKING" -rectangle, Then "PRACTICE WITH BOTS", Hit "GO" -bottom right
 5. Load/Exec the PRACallmaps.cfg Config file
 -	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
-		- can choose team then "exec PRACallmaps" if you want
+-		can choose team then "exec PRACallmaps" if you want
 ## Patch Notes
 
 ### 1.30.20
