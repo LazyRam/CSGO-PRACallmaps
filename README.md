@@ -11,13 +11,13 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - kp_minus	- shows map selection console commands
 
 ### Nade Position/Lineup binds
-- Rshift     - Choose Map
+- Rshift     - Choose your Loaded Map
 - Rctrl      - Choose Current Map optionals
-- uparrow    - T nades: Smoke, Molotov, Flash
-- downarrow  - CT nades: Smoke, Molotov, Flash
+- uparrow    - Terrorist Nades: Smoke, Molotov, Flash
+- downarrow  - Counter Terrorist Nades: Smoke, Molotov, Flash
 - leftarrow  - Next Nade Lineups
 - rightarrow - Previous Nade Lineups
-- NUM insert - Secondary Position for Current Lineup
+- NUM insert - Secondary Position for Current Lineup-
 
 ### Bot
 - Insert     - places bot at crosshair
@@ -81,9 +81,9 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 	OR
 1. Past PRACallmaps.cfg text into File and Name it PRACallmaps.cfg
 2. Past PRACallmaps.cfg file into CSGO's config folder located @
-	---> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+	- ---> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 3. Open CSGO and Enable Developer Console in Settings Located @
- 	---> "Settings menu" -Gear, "Game" -Section 5 from the top, "Enable Developer Console (~)" YES
+- 	- ---> "Settings menu" -Gear, "Game" -Section 5 from the top, "Enable Developer Console (~)" YES
 4. Choose Prefered Map  Press your Developer Console Key (~) tilda, Type "map de_dust2" Enter -list of maps are below
 -		-FIX: if Developer Console (~) does not open "alt+tab" out then "alt+tab" back in, try (~)tilda again
 -	OR
@@ -92,16 +92,6 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 5. Load/Exec the PRACallmaps.cfg Config file
 -	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
 -		-can choose team then "exec PRACallmaps" if you want
-6. Choose a Team "Counter Terrorist"
-
--  NOW YOUR READY TO PRACTICE THOSE NADES.
--	_______HOW TO USE: Nade Position/Lineup binds_______------------| all these keys are Multiple Presses to Rotate
--	Rshift		 - Choose your Loaded Map ----------------------| Multiple Press to Rotate Through Maps
--	Uparrow		 - T nades:  Smoke, Molotov, Flash -------------| Multiple Press's to Rotate |T|  Side Nades
--	Downarrow	 - CT nades: Smoke, Molotov, Flash --------| Multiple Press's to Rotate |CT| Side Nades
--	Leftarrow	 - Next Nade Lineups -------------------------| Next in Rotaion of Nade of nade |Side| and |Type|
--	Rightarrow	 - Previous Nade Lineups -------------------| Rotate Back Through Previously Seen Nades
--	NUM insert	 - Secondary Position for Current Lineup --| Secondary Angle for Currently Selected Nade
 ## Patch Notes
 
 ### 1.30.20
