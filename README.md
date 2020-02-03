@@ -122,12 +122,19 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 - Smoke Z from big truck old cache
 - extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
-- bot that jump, walk, run crouch past/peak set locations on each map?
 - list of pro settings?
 ##
 ### LIST OF TODO'S
 - Overpass, nuke, Vertigo, new cache, cobblestone
 - optimize, to much code could break cfg when new map linups added
-- set O bind to cycle diffrent types of wall hack commands 
+- set hotkey / as 5 presets 10 teleport locations logged at 1 time
+- bot that jump, walk, run crouch past/peak set locations on each map?
+- Headphone sound test
+- find use for \ ' 2 hotkeys
+- update dust2, mirage, nades
+- add echo list of nades with quality stars 1-5 for each map
 - add map name commands NUM MINUS
 - fix and addon to echo bind num_ enter j,num_plus,num_minus, \, rctrl
+- use - + as extra options for most commands
+
+-VENT: it fills me with hate that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
