@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
 
-The 35 <b> BINDS ARE ON LINE 2297</b> if you want to check or change any of them -near the bottom
+The 48 <b> BINDS ARE ON LINE 2297</b> if you want to check or change any of them -near the bottom
 
 
 # Binds
