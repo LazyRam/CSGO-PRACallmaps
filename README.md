@@ -1,14 +1,14 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
 
-The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them -near the bottom
+The 35 <b> BINDS ARE ON LINE 2297</b> if you want to check or change any of them -near the bottom
 
 
 # Binds
 ### Keybindings and Commands list
-- kp_enter	- shows keybindings and clears console
-- kp_plus	- shows all give commands/arguments
-- kp_minus	- shows map selection console commands
+- kp_enter	- Shows Keybindings and Clears Console
+- kp_plus	- Shows All Give Commands/Arguments
+- kp_minus	- Shows Nap Selection Console Commands
 
 ### Nade Position/Lineup binds
 - Rshift     - Choose your Loaded Map
@@ -93,6 +93,18 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 -	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
 -		can choose team then "exec PRACallmaps" if you want
 ## Patch Notes
+###2.4.20
+- Added Map Selection Commands in Categories and Alphebetical lists to the Num Minus key
+###2.3.20
+- Updated Echo Binds to Be More Detailed and easier to understand for newer Players
+- Overall Qualtiy of life Changes, Visally see More Detail in Developer PIP Text and What Command Cycle your ON
+- added many new command cycles
+- combined Wallhack and wall Clipping/Collision Points Commands into 1 Key
+### 2.2.20
+- fixed crosshair color changer so you wont have to make crosshaircolor1-5.log files on first use
+- added invulnerablty health cycles
+- added BACKSPACE command cycle. stop developer PIP text, clear console
+- added bullet impacts cycle with extra impact data and timers
 
 ### 1.30.20
 - added ability to drop knife
@@ -117,24 +129,18 @@ The 35 <b> BINDS ARE ON LINE 2103</b> if you want to check or change any of them
 
 ## 
 ### LIST OF MAYBES
-- bind backspace to clear crosshair preset .log file? even possible with console only? or maybe just clear console
 - set bind to start and save nade presets
-- Smoke Z from big truck old cache
 - extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?
-- rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
 - list of pro settings?
 ##
 ### LIST OF TODO'S
-- Overpass, nuke, Vertigo, new cache, cobblestone
-- optimize, to much code could break cfg when new map linups added
-- set hotkey / as 5 presets 10 teleport locations logged at 1 time
+- Nuke -almost done, Overpass, New Cache, Vertigo, Cobblestone. -in that order-
 - bot that jump, walk, run crouch past/peak set locations on each map?
+- rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
+- set hotkey / as 5 presets 10 teleport locations logged at 1 time -possible?
 - Headphone sound test
-- find use for \ ' 2 hotkeys
 - update dust2, mirage, nades
 - add echo list of nades with quality stars 1-5 for each map
-- add map name commands NUM MINUS
-- fix and addon to echo bind num_ enter j,num_plus,num_minus, \, rctrl
 - use - + as extra options for most commands
 
 -VENT: it fills me with hate that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
