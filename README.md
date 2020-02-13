@@ -94,7 +94,7 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 -	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
 -		can choose team then "exec PRACallmaps" if you want
 ## Patch Notes
-## 2.13.20
+### 2.13.20
 - Updated Keybingings alias to New Binds
 - Fixed Show All Give Commands -cleaner look -shows Commands at Top
 ### 2.12.20
