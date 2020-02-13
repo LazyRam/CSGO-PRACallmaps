@@ -12,7 +12,7 @@ The 48 <b> BINDS ARE ON LINE 2297</b> if you want to check or change any of them
 
 ### Nade Position/Lineup binds
 - Rshift     - Choose your Loaded Map
-- Rctrl      - Choose Current Map optionals
+- Rctrl      - Current Map |Optionals|
 - uparrow    - Terrorist Nades: Smoke, Molotov, Flash
 - downarrow  - Counter Terrorist Nades: Smoke, Molotov, Flash
 - leftarrow  - Next Nade Lineups
@@ -22,53 +22,54 @@ The 48 <b> BINDS ARE ON LINE 2297</b> if you want to check or change any of them
 ### Bot
 - Insert     - places bot at crosshair
 - Delete     - kicks all bots
-- Home	     - makes bot crouch
-- End	     - bot mimics you
-- PGUP	     - adds t bot
-- PGDOWN     - adds ct bot
+- Home	     - All Bots Crouch
+- End	     - All Bots Mimic You
+- PGUP	     - Adds Bot on Terrorist Side
+- PGDOWN     - Adds Bot on Counter Terrorist Side
 
 ### Crosshair Color Changer
 - 7		  - Choose Crosshair Color Preset 1-5
-- HOLD 8	  - hold to select/change red,   release to save tent to Chosen Preset
-- HOLD 9	  - hold to select/change blue,  release to save tent to Chosen Preset
-- HOLD 0	  - hold to select/change green, release to save tent to Chosen Preset
-- "-"		  - darken curret color/tent
-- "="		  - lighen current color/tent
+- HOLD 8	  - hold to select/change |RED|,   While Holding use |- =| Cycle Red Tents
+- HOLD 9	  - hold to select/change |BLUE|,  While Holding use |- =| Cycle Blue Tents
+- HOLD 0	  - hold to select/change |GREEN|, While Holding use |- =| Cycle Green Tents
+- "-"		  - Darken  Color/Tent with Multiple Presses
+- "="		  - Lighten Color/Tent with Multiple Presses
+
 - Backspace	  - clears console
 
-### limiter
-- Y	     - grenade trajectory timers
-- U	     - the player become invulnerable
-- I 	     - infinite ammo
-- O	     - see players through walls
-- P	     - auto bunny hopping
-- [	     - shows bullet hits
-- ]	     - shows impacts
-- \ 	     - draws player/nade, wall clippings
+### LIMITERS +
+- Y	     - Shows Bomb Explosion Radius
+- U	     - Become a GOD, GODS, Buddah, Vampire Damage
+- I 	     - Infinite Ammo or Botomless Clip
+- O	     - Render Distance and wall Collision Points
+- P	     - HOLD Space to Bunny Hop
+- [	     - Visualize Near Misses and bullet Hits
+- ]	     - Show Bullet Impacts Data
+- \ 	     - Remove Weapons and Objects on Map
 
-### nade
-- H	     - removes airborn grenades
-- J	     - throws recorded nade path, need vscript
-- K	     - gives all grenades
-- L	     - outlines where bomb can be planted
-- ;	     - draw line/ray
-- ' 	     - stops developer text in upper left corner
+### NADE
+- H	     - Removes Airborn Grenades and Reset Sounds
+- J	     - Disable Drawing of Particles
+- K	     - Gives all Grenades to player
+- L	     - Visualize Grenade Trajectory
+- ;	     - Throws Recorded Nade Path
 
-### log
-- N	     - disable particles i.e. smoke
-- M	     - teleport to logged positions/hold for second position
+### TELEPORT
+- N	     - Bomb Plant and Spawn Positions
+- M	     - Teleport to Logged Positions
 - ,	     - log position 1
 - . 	     - log position 2
-- /	     - nothing yet
+- /	     - Casts a line at Crosshair
 
-### extra
-- Tab	     - toggles Buy anywhere
-- F	     - inspects weapon and clears blood/bullet holes
-- Capslock   - Jump Throw Nade
+### EXTRA
+- Tab	     - Buy Menu Outside of Spawn
+- Capslock   - Jump Throws Primed Nades
+- F	     - Clears Decals and Inspect Weapon
+- '	     - Reset Game, Commands, Alias
 
-### speed
-- alt	     - fly/noclip
-- Ralt	     - increase game speed 10x
+### FLY
+- alt	     - Noclip no Collision Flying
+- Ralt	     - Increase Game Speed
 
 
 ## HOW TO SETUP: Fast
