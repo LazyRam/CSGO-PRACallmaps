@@ -162,7 +162,7 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 
 ### 11.4.19
 - added HOW TO USE: Nade Positions/Linup
-- disabled "nvm"/next view model bind
+- removed "nvm"/next view model bind
 - changed keybinds to fix conflicting binds and put them in similar sections i.e. god mode next to bottomless clip
 - put more frequently used binds to more easily reached keys
 
