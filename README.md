@@ -94,9 +94,52 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 -	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
 -		can choose team then "exec PRACallmaps" if you want
 ## Patch Notes
-###2.4.20
+## 2.13.20
+- Updated Keybingings alias to New Binds
+- Fixed Show All Give Commands -cleaner look -shows Commands at Top
+### 2.12.20
+- moved Code around to fit bind list ie. infinite ammo code is next to invulnerablty code
+- changed Binds Around to Better Fit their Catagory 
+- added Spawn Point Teleportations onto N extra Operions with - = keys
+- fixed Bullet Impact Color Timer Penetration Extra Options can now set a timer without prenetration data forced on
+- added Noclip Acceleration and More Fly Speed to Extra Options with - = keys
+- added Vampire Damage Extra Options with - = keys
+### 2.10.20
+- fixed Infinite ammo alias IAC to properly Disable Commands
+- edited code to make it easier to change binds -all commands bound to single word alias
+- added Reset All Alias onto Reset Game, Commands, Alias bind (')
+- added Extra Options onto Grenade Trajectory Thickness with - = keys and Dash  with - = keys + Backspace Toggle
+- fixed crosshair color changer to stop showing error if selecting a preset that has not been saved yet
+#### 2.9.20
+- added Extra Options onto Remove Airborn Grenade H key -Stop or Reset Sound
+- added Vampire Damage into Invulnerablties Cycle Extra Options with - = keys
+- added Disable Death Drops to extra options of Remove Dropped Weapons and Reset Hp \ Alias
+- added bind resets to Game Restart ' alias
+- fixed removel airborn molotov sound bug by flushing sound on removal
+- added Noclip Echo to Stop Blocking Map Position Text
+- fixed Wallhack and Collision Points Bind to Properly Reset after each Rotation
+- added Reset All Commands Back to default to the ' alias
+### 2.8.20
+- alt then Spacebar Will Reset Backspace to hide Developer PIP text
+- Added Extra Options to Noclip Speed with - = keys
+### 2.7.20
+- Server Ips in Console are now Hidden (except when you type 'status')
+- TIMESCALE - Added Extra Options onto Time Scale, - = keys to change Time Scale of held Ralt key, release Ralt Default Speed
+- TIMESCALE - press Backspace to Save/Toggle Current Time Scale option change saved option with - =
+- Fixed Buy Anywhere Toggle Bind
+### 2.6.20
+- Added Extra Options Onto Bullet Impact Color and Penetration with - = keys
+- Added Extra Options Onto Wallhacks and Collision Point keybind with - = keys
+- Added Extra Options Onto Infinite Ammo with - = keys
+- updated Noclip to Have Spacebar Hold Your in Air Position -spacebar will still jump normally when landed
+- fixed show keybindings button caused by : symbol in echo command
+### 2.5.20
+- added extra options onto Grenade Trajectory with - = keys
+- added another type of infinite ammo into cycle
+-Fixed Grenade Trajectory Timer
+### 2.4.20
 - Added Map Selection Commands in Categories and Alphebetical lists to the Num Minus key
-###2.3.20
+### 2.3.20
 - Updated Echo Binds to Be More Detailed and easier to understand for newer Players
 - Overall Qualtiy of life Changes, Visally see More Detail in Developer PIP Text and What Command Cycle your ON
 - added many new command cycles
