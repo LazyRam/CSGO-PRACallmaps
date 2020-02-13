@@ -130,18 +130,22 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 
 ## 
 ### LIST OF MAYBES
-- set bind to start and save nade presets
-- extra help button? leads to a how to edit the code video?	 how to use config video?  general tutorial?
+- how to edit/add, code, video? how to use config video?  general tutorial?
 - list of pro settings?
+- Move extra extra options (backspace) to Y? y easier to reach backsapce next to extra option - =
+- save custom commands as preset
+- extra option to team chat bind -all chat
+- set hotkey / as teleport Presets -possible without exec?
 ##
 ### LIST OF TODO'S
-- Nuke -almost done, Overpass, New Cache, Vertigo, Cobblestone. -in that order-
+- Nuke -50%, Overpass -0%, New Cache -50%, Vertigo -0%, Cobblestone -0%. -in that order-
 - bot that jump, walk, run crouch past/peak set locations on each map?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
-- set hotkey / as 5 presets 10 teleport locations logged at 1 time -possible?
 - Headphone sound test
 - update dust2, mirage, nades
 - add echo list of nades with quality stars 1-5 for each map
-- use - + as extra options for most commands
+- set bind to start and save nade presets
+- bomb damage testing
+- bind thrownade script as toggle so you dont see script text popup every exec?
 
--VENT: it fills me with hate that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
+-VENT: it upsets me that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
