@@ -78,6 +78,23 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 3. Once Map Loads, Open Console "~" Enter "exec PRACallmaps"
 
 ## HOW TO SETUP: Detailed
+1. Open PRACallmaps.cfg
+![](images/Step.1.png)
+##
+2. Copy PRACallmaps.cfg Text
+![](images/Step.2.gif)
+##
+3. Create New File Named PRACallmaps.cfg
+![](images/Step.3.gif)
+##
+4. Past Copied Text into PRACallmaps.cfg
+![](images/Step.4.gif)
+##
+5. Past Folder Location into folder explorer adress bar then Press - ENTER. Then Past PRACallmaps.cfg file into cfg Folder
+> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+![](images/Step.5.gif)
+
+##
 1. Download PRACallmaps.cfg
 	OR
 1. Past PRACallmaps.cfg text into File and Name it PRACallmaps.cfg
