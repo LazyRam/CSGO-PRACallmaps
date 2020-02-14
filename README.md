@@ -82,7 +82,7 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 ![](images/Step.1.png)
 ##
 2. Copy PRACallmaps.cfg Text
-
+![](images/Step.2.gif)
 ##
 3. Create New File Named PRACallmaps.cfg
 ![](images/Step.3.gif)
