@@ -87,7 +87,7 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 3. Create New File Named PRACallmaps.cfg
 ![](images/Step.3.gif)
 ##
-4. Past Copied Text into PRACallmaps.cfg
+4. Past copied text into -PRACallmaps.cfg
 ![](images/Step.4.gif)
 ##
 5. Past Folder Location into folder explorer adress bar then Press - ENTER. Then Past PRACallmaps.cfg file into cfg Folder
