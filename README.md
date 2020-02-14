@@ -99,23 +99,6 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 ##
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
-
-##
-1. Download PRACallmaps.cfg
-	OR
-1. Past PRACallmaps.cfg text into File and Name it PRACallmaps.cfg
-2. Past PRACallmaps.cfg file into CSGO's config folder located @
-	- ---> C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-3. Open CSGO and Enable Developer Console in Settings Located @
- 	- ---> "Settings menu" -Gear, "Game" -Section 5 from the top, "Enable Developer Console (~)" YES
-4. Choose Prefered Map  Press your Developer Console Key (~) tilda, Type "map de_dust2" Enter -list of maps are below
--		FIX: if Developer Console (~) does not open "alt+tab" out then "alt+tab" back in, try (~)tilda again
--	OR
--	click "Play CSGO" -top left play icon, click on Prefered map "Dust II" Once it is Highlighted
--	click on "OFFICAL MATCHMAKING" -rectangle, Then "PRACTICE WITH BOTS", Hit "GO" -bottom right
-5. Load/Exec the PRACallmaps.cfg Config file
--	Once Map Loades, Open Developer Colsole with Key (~) tilda, Type "exec PRACallmaps", hit ENTER
--		can choose team then "exec PRACallmaps" if you want
 ## Patch Notes
 ### 2.13.20
 - Updated Keybingings alias to New Binds
