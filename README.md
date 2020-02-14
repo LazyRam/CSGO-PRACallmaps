@@ -93,6 +93,9 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 5. Past Folder Location into folder explorer adress bar then Press - ENTER. Then Past PRACallmaps.cfg file into cfg Folder
 > C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 ![](images/Step.5.gif)
+##
+6. Open CSGO, Enable Developer Console, Choose Map
+![](images/Step.6.gif)
 
 ##
 1. Download PRACallmaps.cfg
