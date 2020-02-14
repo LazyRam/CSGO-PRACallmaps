@@ -96,6 +96,9 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 ##
 6. Open CSGO, Enable Developer Console, Choose Map
 ![](images/Step.6.gif)
+##
+7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
+![](images/Step.7.gif)
 
 ##
 1. Download PRACallmaps.cfg
