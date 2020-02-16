@@ -100,6 +100,16 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
+### 2.15.20
+- organized Dust2 Nades Code to make it easier to add nades
+- added 6 More Nades to Cache T Smokes
+- made it Easier to Add Binds to Cache T Smokes
+### 2.14.20
+- Found 6 Z window Smokes Cache
+- Fixed All T Smokes Cache Smokes
+- Fixed Dust2 Smoke Name
+- Fixed Show Scores and Toggle buy anywhere to show single word alias
+- updated Reset Game Alias to match new Binds
 ### 2.13.20
 - Updated Keybingings alias to New Binds
 - Fixed Show All Give Commands -cleaner look -shows Commands at Top
@@ -196,5 +206,5 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 - set bind to start and save nade presets
 - bomb damage testing
 - bind thrownade script as toggle so you dont see script text popup every exec?
-
+- organize Nade code Dust2 100%, Mirage 0%, Cache 15%, train 0%, inferno 0%, nuke 0%, overpass 0%, vertigo 0%, cobblestone 0%
 -VENT: it upsets me that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
