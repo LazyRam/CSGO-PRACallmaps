@@ -100,6 +100,12 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
+### 2.17.20
+- added dust2 Smokes into One Way  alias -OneWay -Select dust2 map, type OneWay in console, leftarrow rightarrow to cycle 1-9
+- fixed dust2 T Smokes to properly Cycle
+- added Dust2 Smokes into Jump Binds alias - JumpBind -Select dust2 map, type JumpBinds in console, leftarrow rightarrow to cycle 1-6
+- edited dust2 smoke code to allow custom grouped alias
+- fixed dust2 alias to now trigger when dust2 map is selected instead of working after cycling all nades
 ### 2.16.20
 - added Multiple aliases for each Dust2 Smokes ie. SmokeLongDoorfromElevator, SLDFE, DCTSL01 -all the same
 - organized and Optimized Dust2 T Smoke Code
