@@ -101,7 +101,7 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 ![](images/Step.7.gif)
 ## Patch Notes
 ### 2.16.20
-- added Multiple alias for each Dust2 Smokes ie. SmokeLongDoorfromElevator, SLDFE, DCTSL01 -all the same
+- added Multiple aliases for each Dust2 Smokes ie. SmokeLongDoorfromElevator, SLDFE, DCTSL01 -all the same
 - organized and Optimized Dust2 T Smoke Code
 - organized and Optimized Dust2 CT Smoke Code
 - added 11 Dust2 T Nades - 3 Dust2 CT Nades
