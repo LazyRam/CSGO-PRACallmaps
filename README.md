@@ -100,6 +100,11 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
+### 2.16.20
+- added Multiple alias for each Dust2 Smokes ie. SmokeLongDoorfromElevator, SLDFE, DCTSL01 -all the same
+- organized and Optimized Dust2 T Smoke Code
+- organized and Optimized Dust2 CT Smoke Code
+- added 11 Dust2 T Nades - 3 Dust2 CT Nades
 ### 2.15.20
 - organized Dust2 Nades Code to make it easier to add nades
 - added 6 More Nades to Cache T Smokes
@@ -201,7 +206,6 @@ The 48 <b> BINDS ARE ON LINE 2996</b> if you want to check or change any of them
 - bot that jump, walk, run crouch past/peak set locations on each map?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
 - Headphone sound test
-- update dust2, mirage, nades
 - add echo list of nades with quality stars 1-5 for each map
 - set bind to start and save nade presets
 - bomb damage testing
