@@ -3,7 +3,7 @@ my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or ju
 
 The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them -near the bottom
 
-### Added Dust2 Nade Group Aliases
+### Added Dust2 Nade Group Aliases -type the name into console
 - Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
 - Dust2 Molotov Aliases------ MolotovBackPlatfromCTMid, MBPFCTM
 - Dust2 Flash Aliases---------- FlashMidDoorsfromXbox, FMDFX
