@@ -143,7 +143,7 @@ The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them
 - added Reset All Alias onto Reset Game, Commands, Alias bind (')
 - added Extra Options onto Grenade Trajectory Thickness with - = keys and Dash  with - = keys + Backspace Toggle
 - fixed crosshair color changer to stop showing error if selecting a preset that has not been saved yet
-#### 2.9.20
+### 2.9.20
 - added Extra Options onto Remove Airborn Grenade H key -Stop or Reset Sound
 - added Vampire Damage into Invulnerablties Cycle Extra Options with - = keys
 - added Disable Death Drops to extra options of Remove Dropped Weapons and Reset Hp \ Alias
