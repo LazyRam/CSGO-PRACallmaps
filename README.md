@@ -223,4 +223,10 @@ The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them
 - bomb damage testing
 - bind thrownade script as toggle so you dont see script text popup every exec?
 - organize Nade code Dust2 100%, Mirage 0%, Cache 15%, train 0%, inferno 0%, nuke 0%, overpass 0%, vertigo 0%, cobblestone 0%
+
+- Fix DefendASite alias
+- make defendBSite alias
+- add more aliases to dust smokes
+- add shortledge one way to oneway alias
+
 -VENT: it upsets me that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
