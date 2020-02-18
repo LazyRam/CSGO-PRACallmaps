@@ -6,11 +6,11 @@ The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them
 ### Added Dust2 Nade Group Aliases
 - Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
 - Dust2 Molotov Aliases------ MolotovBackPlatfromCTMid, MBPFCTM
-- Dust2 Flash Aliases-------- FlashMidDoorsfromXbox, FMDFX
+- Dust2 Flash Aliases---------- FlashMidDoorsfromXbox, FMDFX
 - Dust2 Jump Bind Aliases---- JumpBind, jumpbinds -right/left arrow to cycle
 - Dust2 One Way Aliases------ OneWay, OneWaySmokes -right/left arrow to cycle
-- Dust2 Take A Site Alias---- TakeASite -right/left arrow to cycle
-- Dust2 Take B Site Alias---- TakeBSite -right/left arrow to cycle
+- Dust2 Take A Site Alias------ TakeASite -right/left arrow to cycle
+- Dust2 Take B Site Alias------ TakeBSite -right/left arrow to cycle
 - Dust2 Defend A Site Alias -WIP. 80%
 - Dust2 Defend B Site Alias -wip. 0%
 
