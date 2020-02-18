@@ -100,7 +100,7 @@ The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
-###2.18.20
+### 2.18.20
 - added 1 Dust2 T Smoke and alias -OneWayShortLedge
 ### 2.17.20
 - added TakeBSite Alias to Dust2 Grouped Aliased -Select dust2 map, type TakeBSite in Console
