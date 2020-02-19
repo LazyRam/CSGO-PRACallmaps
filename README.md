@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
 
-The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them -near the bottom
+The 48 <b> BINDS ARE ON LINE 3195</b> if you want to check or change any of them -near the bottom
 
 ### Added Dust2 Nade Group Aliases -type the name into console
 - Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
@@ -111,7 +111,13 @@ The 48 <b> BINDS ARE ON LINE 3121</b> if you want to check or change any of them
 ![](images/Step.7.gif)
 ## Patch Notes
 ### 2.18.20
-- added 1 Dust2 T Smoke and alias -OneWayShortLedge
+- added 2 Dust2 T Smoke -OneWayShortLedge
+- Removed some aliases that were over the 31 character limit -alias MolotovUnderRightWindowfromCTMid DCTML05
+- Updated Dust2 Nade Aliases Door,Doors , UnderWindow,BackSite , CatWalk,Cat
+- added DefendBSite Alias to Dust2 Grouped Aliases  -Select dust2 map, type DefendBSite in Console
+- added DefendASite Alias to Dust2 Grouped Aliases  -Select dust2 map, type DefendASite in Console
+- added 1 Dust2 CT Molotov
+- fixed dust2 flash now properly showing lineup then position
 ### 2.17.20
 - added TakeBSite Alias to Dust2 Grouped Aliased -Select dust2 map, type TakeBSite in Console
 - added TakeASite Alias to Dust2 Grouped Aliases -Select dust2 map, type TakeASite in Console
