@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
 
-The 48 <b> BINDS ARE ON LINE 3195</b> if you want to check or change any of them -near the bottom
+The 48 <b> BINDS ARE ON LINE 3205</b> if you want to check or change any of them -near the bottom
 
 ### Added Dust2 Nade Group Aliases -type the name into console
 - Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
@@ -110,6 +110,10 @@ The 48 <b> BINDS ARE ON LINE 3195</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
+### 2.19.20
+- tested all Dust2 Nades and Alias Groups -Various Fixes -all works Properly
+- Updated Aliases and Alias Groups to work with new Lineups
+- changed Dust2 Lineup Aliases to make it easier to add onto Alias Groups
 ### 2.18.20
 - added 2 Dust2 T Smoke -OneWayShortLedge
 - Removed some aliases that were over the 31 character limit -alias MolotovUnderRightWindowfromCTMid DCTML05
