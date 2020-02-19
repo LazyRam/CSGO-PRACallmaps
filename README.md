@@ -11,8 +11,8 @@ The 48 <b> BINDS ARE ON LINE 3195</b> if you want to check or change any of them
 - Dust2 One Way Aliases------ OneWay, OneWaySmokes -right/left arrow to cycle
 - Dust2 Take A Site Alias------ TakeASite -right/left arrow to cycle
 - Dust2 Take B Site Alias------ TakeBSite -right/left arrow to cycle
-- Dust2 Defend A Site Alias -WIP. 80%
-- Dust2 Defend B Site Alias -wip. 0%
+- Dust2 Defend A Site Alias---- DefendASite -right/left arrow to cycle
+- Dust2 Defend B Site Alias---- DefendBSite -right/left arrow to cycle
 
 # Binds
 ### Keybindings and Commands list
