@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
 
-The 48 <b> BINDS ARE ON LINE 3205</b> if you want to check or change any of them -near the bottom
+The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them -near the bottom
 
 ### Added Dust2 Nade Group Aliases -type the name into console
 - Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
@@ -110,7 +110,16 @@ The 48 <b> BINDS ARE ON LINE 3205</b> if you want to check or change any of them
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
 ## Patch Notes
+### 2.21.20
+- added Dust2 CT Flashes -FlashASitefromNinja, FlashASitefromNinja2
+- added CT Molotov -MolitovCatwalkfromMidDoor
+- added alias groups -Ramp, Goose, ASite, Suicide, TopMid, Catwalk, Short, Ninja, TRamp, OutsideTuns, UpperTuns, LowerTuns, Xbox, MidDoor, CTSpawn
+###2.20.20
+- added alias Groups -TSpawn, OutsideLong, LongDoor, Pit, ACar, Elevator
+- Fixed Selecting Dust2 auto Spawned you at Nade Locations
+- Fixed TSmoke24 Mistyped Alias Causing Game to Crash
 ### 2.19.20
+- changed FashShortfromLong lineup/alias names to -FashShortfromLongDoor
 - tested all Dust2 Nades and Alias Groups -Various Fixes -all works Properly
 - Updated Aliases and Alias Groups to work with new Lineups
 - changed Dust2 Lineup Aliases to make it easier to add onto Alias Groups
@@ -243,10 +252,10 @@ The 48 <b> BINDS ARE ON LINE 3205</b> if you want to check or change any of them
 - bomb damage testing
 - bind thrownade script as toggle so you dont see script text popup every exec?
 - organize Nade code Dust2 100%, Mirage 0%, Cache 15%, train 0%, inferno 0%, nuke 0%, overpass 0%, vertigo 0%, cobblestone 0%
+- bind ctrl to toggle a noclip speed?
 
-- Fix DefendASite alias
-- make defendBSite alias
-- add more aliases to dust smokes
-- add shortledge one way to oneway alias
+- Positional callout aliases
+- bind rctrl to choose Select between |Affect Position|-|From Position|-|To Position| of current nade position alias
+- Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
 
 -VENT: it upsets me that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
