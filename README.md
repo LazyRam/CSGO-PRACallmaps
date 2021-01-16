@@ -3,16 +3,17 @@ my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or ju
 
 The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them -near the bottom
 
-### Added Dust2 Nade Group Aliases -type the name into console
-- Dust2 Smoke Aliases ------- SmokeRightElevatorfromLong, SREFL
-- Dust2 Molotov Aliases------ MolotovBackPlatfromCTMid, MBPFCTM
-- Dust2 Flash Aliases---------- FlashMidDoorsfromXbox, FMDFX
-- Dust2 Jump Bind Aliases---- JumpBind, jumpbinds -right/left arrow to cycle
-- Dust2 One Way Aliases------ OneWay, OneWaySmokes -right/left arrow to cycle
-- Dust2 Take A Site Alias------ TakeASite -right/left arrow to cycle
-- Dust2 Take B Site Alias------ TakeBSite -right/left arrow to cycle
-- Dust2 Defend A Site Alias---- DefendASite -right/left arrow to cycle
-- Dust2 Defend B Site Alias---- DefendBSite -right/left arrow to cycle
+## What is PRACallmaps Config
+PRACallmaps is a Convenient "All Aspects of CSGO Practice"
+- Teleport to selected nade map/type/side/linup/position
+- Common similar command's bound and Cycle through.
+- Throw Recorded Nade Path - Vscript - www.youtube.com/watch?v=B9hB2gICopw
+- type map position callouts in console to teleport/cycle nades for that position/affected by
+- Crosshair Color Changer, all 255 255 255 color combinations with <b> 5 Saveable Presets <b>
+
+
+
+
 
 # Binds
 ### Keybindings and Commands list
@@ -44,6 +45,7 @@ The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them
 - HOLD 0	  - hold to select/change |GREEN|, While Holding use |- =| Cycle Green Tents
 - "-"		  - Darken  Color/Tent with Multiple Presses
 - "="		  - Lighten Color/Tent with Multiple Presses
+<b>Release "hold" to Select Color<b>
 
 - Backspace	  - clears console
 
@@ -243,7 +245,7 @@ The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them
 - set hotkey / as teleport Presets -possible without exec?
 ##
 ### LIST OF TODO'S
-- Nuke -50%, Overpass -0%, New Cache -50%, Vertigo -0%, Cobblestone -0%. -in that order-
+- Nuke -50%, Overpass -0%, New Cache -50%, Vertigo -0%, Cobblestone -0%.
 - bot that jump, walk, run crouch past/peak set locations on each map?
 - rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
 - Headphone sound test
@@ -257,5 +259,3 @@ The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them
 - Positional callout aliases
 - bind rctrl to choose Select between |Affect Position|-|From Position|-|To Position| of current nade position alias
 - Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
-
--VENT: it upsets me that github has its line management as common symbols instad of a context menu and the edit menu has diffrent FONT!!!
