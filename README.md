@@ -1,5 +1,5 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
-my steam profile is https://steamcommunity.com/id/Kiprae/ to comment a bug or just say hi
+my steam profile is https://steamcommunity.com/id/SlothCrazy/ to comment a bug or just say hi
 
 The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them -near the bottom
 
