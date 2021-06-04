@@ -280,7 +280,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - bind rctrl to choose Select between |Affect Position|-|From Position|-|To Position| of current nade position alias
 - Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
 
-
+##
 ## LIST OF USED COMMANDS
 ### A
 - alias
