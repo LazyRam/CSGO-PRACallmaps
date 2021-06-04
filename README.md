@@ -282,7 +282,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
 
 ##
-###LIST OF USED COMMANDS
+### LIST OF USED COMMANDS
   
 ### A
 - alias
