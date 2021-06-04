@@ -267,6 +267,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - set hotkey / as teleport Presets -possible without exec?
 - Crosshair List -why memorize nade Linups when the crosshair will tell you?
 - make callout minigame for new players
+
 ##
 ### LIST OF TODO'S
 - Nuke -0%, Overpass -0%, New Cache -0%, Vertigo -0%, Cobblestone -0%, Ancient -0%.
@@ -281,7 +282,8 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
 
 ##
-## LIST OF USED COMMANDS
+###LIST OF USED COMMANDS
+  
 ### A
 - alias
 - ammo_grenade_limit_total 5
