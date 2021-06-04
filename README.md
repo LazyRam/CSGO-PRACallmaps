@@ -1,7 +1,7 @@
 ## <b>NUM ENTER - Shows Keybindings and Clears Console </b>
 my steam profile is https://steamcommunity.com/id/SlothCrazy/ to comment a bug or just say hi
 
-The 48 <b> BINDS ARE ON LINE 3490</b> if you want to check or change any of them -near the bottom
+The 48 <b> BINDS ARE ON LINE 2946</b> if you want to check or change any of them -near the bottom
 
 ## What is PRACallmaps Config
 PRACallmaps is a Convenient "All Aspects of CSGO Practice"
@@ -9,7 +9,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Common similar command's bound and Cycle through.
 - Throw Recorded Nade Path - Vscript - www.youtube.com/watch?v=B9hB2gICopw
 - type map position callouts in console to teleport/cycle nades for that position/affected by
-- Crosshair Color Changer, all 255 255 255 color combinations with <b> 5 Saveable Presets <b>
+- Crosshair Color Changer, all 255 255 255 color combinations with <b> 5 Saveable Presets <b> -data loss
 
 
 
@@ -31,8 +31,8 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - NUM insert - Secondary Position for Current Lineup-
 
 ### Bot
-- Insert     - places bot at crosshair
-- Delete     - kicks all bots
+- Insert     - Places Bot at Crosshair
+- Delete     - Kicks All Bots
 - Home	     - All Bots Crouch
 - End	     - All Bots Mimic You
 - PGUP	     - Adds Bot on Terrorist Side
@@ -43,20 +43,20 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - HOLD 8	  - hold to select/change |RED|,   While Holding use |- =| Cycle Red Tents
 - HOLD 9	  - hold to select/change |BLUE|,  While Holding use |- =| Cycle Blue Tents
 - HOLD 0	  - hold to select/change |GREEN|, While Holding use |- =| Cycle Green Tents
-- "-"		  - Darken  Color/Tent with Multiple Presses
-- "="		  - Lighten Color/Tent with Multiple Presses
+- "-"		  - Darken  Color/Tent with Multiple Presses, While Holding Color
+- "="		  - Lighten Color/Tent with Multiple Presses, While Holding Color
 <b>Release "hold" to Select Color<b>
 
 - Backspace	  - clears console
 
 ### LIMITERS +
-- Y	     - Shows Bomb Explosion Radius
+- Y	     - Shows Bomb Radius and Plant Positions
 - U	     - Become a GOD, GODS, Buddah, Vampire Damage
 - I 	     - Infinite Ammo or Botomless Clip
 - O	     - Render Distance and wall Collision Points
 - P	     - HOLD Space to Bunny Hop
 - [	     - Visualize Near Misses and bullet Hits
-- ]	     - Show Bullet Impacts Data
+- ]	     - Show Bullet Impact Data
 - \ 	     - Remove Weapons and Objects on Map
 
 ### NADE
@@ -67,10 +67,10 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - ;	     - Throws Recorded Nade Path
 
 ### TELEPORT
-- N	     - Bomb Plant and Spawn Positions
+- N	     - Show or Teleport to Spawn Positions
 - M	     - Teleport to Logged Positions
-- ,	     - log position 1
-- . 	     - log position 2
+- ,	     - Log Position 1
+- . 	     - Log Position 2
 - /	     - Casts a line at Crosshair
 
 ### EXTRA
@@ -78,6 +78,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Capslock   - Jump Throws Primed Nades
 - F	     - Clears Decals and Inspect Weapon
 - '	     - Reset Game, Commands, Alias
+- ENTER   - Open Team Chat
 
 ### FLY
 - alt	     - Noclip no Collision Flying
@@ -111,7 +112,28 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 ##
 7. Once Map Loads Choose Team, Open Console with ` Tilda, Type exec PRACallmaps
 ![](images/Step.7.gif)
+
+
 ## Patch Notes
+### 6.4.21
+- reduced ammout of lines about 600
+- added show keybinding list with their commands 
+- added dust 2 molotov a site double box from long
+- added commands, mp_drop_grenade_enable 1, mp_anyone_can_pickup_c4 1, mp_items_prohibited 0, mp_weapons_allow_heavyassaultsuit 1,
+- moved  Plant Positions command, previously on key (N) to (y)
+- fixed bot delete bind
+- updated give commands
+- update Map List Header -auto updates
+- added Game Types, Game Modes, Skirmish Modes to Map List
+- updated bot place to use both pgup/pgdn and - =
+- updated Invulnerablties Health Rotation
+- fixed Grenade Trajectory Timer, Dash, Thickness
+- removed Grenade Trajectory Dash backspace option
+- added snd_restart to (') -easier sound fix
+- updated Reset Game, Convars, Commands, Alias
+- updated Show or Teleport to Spawn Positions to be map specific -not only dust 2
+- updated dust 2 ct/t spawn point angles
+- added spacing in commands -easier to understand
 ### 2.21.20
 - added Dust2 CT Flashes -FlashASitefromNinja, FlashASitefromNinja2
 - added CT Molotov -MolitovCatwalkfromMidDoor
@@ -243,19 +265,166 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - save custom commands as preset
 - extra option to team chat bind -all chat
 - set hotkey / as teleport Presets -possible without exec?
+- Crosshair List -why memorize nade Linups when the crosshair will tell you?
+- make callout minigame for new players
 ##
 ### LIST OF TODO'S
-- Nuke -50%, Overpass -0%, New Cache -50%, Vertigo -0%, Cobblestone -0%.
-- bot that jump, walk, run crouch past/peak set locations on each map?
-- rctrl - jump boost positions, nades to take a/b, callouts, god tier nades, jump bind nades, one way smokes?
+- Nuke -0%, Overpass -0%, New Cache -0%, Vertigo -0%, Cobblestone -0%, Ancient -0%.
 - Headphone sound test
-- add echo list of nades with quality stars 1-5 for each map
 - set bind to start and save nade presets
 - bomb damage testing
-- bind thrownade script as toggle so you dont see script text popup every exec?
 - organize Nade code Dust2 100%, Mirage 0%, Cache 15%, train 0%, inferno 0%, nuke 0%, overpass 0%, vertigo 0%, cobblestone 0%
-- bind ctrl to toggle a noclip speed?
+- Add Spawn Positions to All Maps
 
 - Positional callout aliases
 - bind rctrl to choose Select between |Affect Position|-|From Position|-|To Position| of current nade position alias
 - Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer
+
+
+## LIST OF USED COMMANDS
+### A
+- alias
+- ammo_grenade_limit_total 5
+- 
+### B
+- bind
+- bot_add_ct
+- bot_add_t
+- bot_chatter off
+- bot_crouch 0
+- bot_kick all
+- bot_kick ct
+- bot_kick t
+- bot_mimic 0
+- bot_mimic_yaw_offset 0
+- bot_show_battlefront 0
+- bot_stop 1
+- buddha
+### C
+- cast_ray
+- cl_crosshaircolor_b
+- cl_crosshaircolor_g
+- cl_crosshaircolor_r
+- cl_hideserverip 1
+- cl_showpos 0
+- cl_soundscape_flush
+- clear
+- con_filter_enable 2
+- con_filter_text_out
+- con_logfile cfg/ .log
+- 
+### D
+- developer 1
+- 
+### E
+- echo
+- ent_fire
+- exec
+- execifexists
+- 
+### F
+- 
+### G
+- game_mode
+- game_type
+- god
+- gods
+- 
+### H
+- host_timescale 1
+- 
+### I
+- 
+### J
+- 
+### K
+- 
+### L
+- lookatweapon
+- 
+### M
+- Mat_fillrate 0
+- map_showbombradius 
+- map_showspawnpoints 0
+- maps *
+- messagemode
+- messagemode2
+- mp_anyone_can_pickup_c4 1
+- mp_autokick 0
+- mp_buytime 9999
+- mp_damage_vampiric_amount 0
+- mp_death_drop_c4
+- mp_death_drop_defuser
+- mp_death_drop_grenade
+- mp_death_drop_gun
+- mp_drop_grenade_enable 1
+- mp_drop_knife_enable 1
+- mp_freezetime 0
+- mp_ignore_round_win_conditions 1
+- mp_items_prohibited 0
+- mp_limitteams 0
+- mp_maxmoney 60000
+- mp_playercashawards 0
+- mp_respawn_on_death_ct 1
+- mp_respawn_on_death_t 1
+- mp_restartgame
+- mp_roundtime_defuse 60
+- mp_startmoney 60000
+- mp_warmup_end
+- mp_weapons_allow_heavyassaultsuit
+- 
+### N
+- noclip
+-
+### O
+- 
+### P
+-
+### Q
+- 
+### R
+- r_cleardecals
+- r_drawclipbrushes 0
+- r_drawothermodels 1
+- r_drawparticles 1
+- reset_expo
+- reset_gameconvars
+- 
+### S
+- say
+- setang
+- setpos_exact
+- showscores
+- showtriggers_toggle
+- snd_restart
+- sv_autobunnyhopping 1
+- sv_cheats 1
+- sv_grenade_trajectory
+- sv_grenade_trajectory_dash
+- sv_grenade_trajectory_thickness
+- sv_grenade_trajectory_time
+- sv_infinite_ammo 0
+- sv_noclipaccelerate
+- sv_noclipspeed 5
+- sv_showbullethits 0
+- sv_showimpacts 0
+- sv_showimpacts_penetration 0
+- sv_showimpacts_time 3
+- 
+### T
+- 
+### U
+- 
+### V
+- vcollide_wireframe 0
+- 
+### W
+- weapon_recoil_scale 2
+- 
+### X
+- 
+### Y
+- 
+### Z
+- 
+  
