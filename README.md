@@ -267,6 +267,7 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - set hotkey / as teleport Presets -possible without exec?
 - Crosshair List -why memorize nade Linups when the crosshair will tell you?
 - make callout minigame for new players
+- Simple aliases for all used Command Cycles? ie. type GrenadeTrajectoryTimer ?
 
 ##
 ### LIST OF TODO'S
