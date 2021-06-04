@@ -10,15 +10,11 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Throw Recorded Nade Path - Vscript - www.youtube.com/watch?v=B9hB2gICopw
 - type map position callouts in console to teleport/cycle nades for that position/affected by
 - Crosshair Color Changer, all 255 255 255 color combinations with <b> 5 Saveable Presets <b> -data loss
-
-
-
-
-
+  
 # Binds
 ### Keybindings and Commands list
 - kp_enter	- Shows Keybindings and Clears Console
-- kp_plus	- Shows All Give Commands/Arguments
+- kp_plus	  - Shows All Give Commands/Arguments
 - kp_minus	- Shows Nap Selection Console Commands
 
 ### Nade Position/Lineup binds
@@ -34,30 +30,30 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - Insert     - Places Bot at Crosshair
 - Delete     - Kicks All Bots
 - Home	     - All Bots Crouch
-- End	     - All Bots Mimic You
+- End	       - All Bots Mimic You
 - PGUP	     - Adds Bot on Terrorist Side
 - PGDOWN     - Adds Bot on Counter Terrorist Side
 
 ### Crosshair Color Changer
-- 7		  - Choose Crosshair Color Preset 1-5
+- 7		      - Choose Crosshair Color Preset 1-5
 - HOLD 8	  - hold to select/change |RED|,   While Holding use |- =| Cycle Red Tents
 - HOLD 9	  - hold to select/change |BLUE|,  While Holding use |- =| Cycle Blue Tents
 - HOLD 0	  - hold to select/change |GREEN|, While Holding use |- =| Cycle Green Tents
-- "-"		  - Darken  Color/Tent with Multiple Presses, While Holding Color
-- "="		  - Lighten Color/Tent with Multiple Presses, While Holding Color
+- "-"		    - Darken  Color/Tent with Multiple Presses, While Holding Color
+- "="		    - Lighten Color/Tent with Multiple Presses, While Holding Color
 <b>Release "hold" to Select Color<b>
-
-- Backspace	  - clears console
-
+##
+- Backspace  - Toggle Developer PIP Text and clears Console
+##
 ### LIMITERS +
 - Y	     - Shows Bomb Radius and Plant Positions
 - U	     - Become a GOD, GODS, Buddah, Vampire Damage
-- I 	     - Infinite Ammo or Botomless Clip
+- I 	   - Infinite Ammo or Botomless Clip
 - O	     - Render Distance and wall Collision Points
 - P	     - HOLD Space to Bunny Hop
 - [	     - Visualize Near Misses and bullet Hits
 - ]	     - Show Bullet Impact Data
-- \ 	     - Remove Weapons and Objects on Map
+- \ 	   - Remove Weapons and Objects on Map
 
 ### NADE
 - H	     - Removes Airborn Grenades and Reset Sounds
@@ -70,15 +66,15 @@ PRACallmaps is a Convenient "All Aspects of CSGO Practice"
 - N	     - Show or Teleport to Spawn Positions
 - M	     - Teleport to Logged Positions
 - ,	     - Log Position 1
-- . 	     - Log Position 2
+- . 	   - Log Position 2
 - /	     - Casts a line at Crosshair
 
 ### EXTRA
 - Tab	     - Buy Menu Outside of Spawn
-- Capslock   - Jump Throws Primed Nades
-- F	     - Clears Decals and Inspect Weapon
-- '	     - Reset Game, Commands, Alias
-- ENTER   - Open Team Chat
+- Capslock - Jump Throws Primed Nades
+- F	       - Clears Decals and Inspect Weapon
+- '	       - Reset Game, Commands, Alias
+- ENTER    - Open Team Chat
 
 ### FLY
 - alt	     - Noclip no Collision Flying
